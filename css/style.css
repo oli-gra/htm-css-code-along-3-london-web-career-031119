@@ -4,12 +4,20 @@
 p {
 	font-family: Helvetica, cursive;
 	font-size: 15px;
+<<<<<<< HEAD
 	line-height: 150%
+=======
+	line-height: 150%;
+>>>>>>> 388d48e561e1866e8be7311f518799b77e8d947d
 	color:#777;
 }
 
 figcaption {
+<<<<<<< HEAD
 	font-weight: 65%
+=======
+	font-weight: 100;
+>>>>>>> 388d48e561e1866e8be7311f518799b77e8d947d
 	font-size: 65%;
 	font: normal 70%/150% 'Elsie Swash Caps', cursive;
 	color: #000FFF;
